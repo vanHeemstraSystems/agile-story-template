@@ -3,6 +3,8 @@ agile-story-template
 
 Based on [Agile Definition of Ready](https://github.com/vanHeemstraSystems/agile_definition_of_ready)
 
+Based on [Agile Definition of Done](https://github.com/vanHeemstraSystems/agile_definition_of_done)
+
 See [AGILE_STORY_TEMPLATE.md](./AGILE_STORY_TEMPLATE.md)
 
 Example for Threagile:
