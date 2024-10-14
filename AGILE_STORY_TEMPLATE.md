@@ -1,8 +1,8 @@
 # Description
 
 - **As** a [Role]
-- **I want** [Want: Feature / Function]
-- **So that** [Need: Benefit / Reason]
+- **I want** [Want: Feature / Function / Objective]
+- **So that** [Need: Benefit / Reason / Goal]
 
 ## Acceptance Criteria
 
