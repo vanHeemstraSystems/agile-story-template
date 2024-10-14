@@ -7,11 +7,9 @@ Example for Threagile:
 
 # Description
 
-As a Software Engineer,
-
-I want to identify and report security vulnerabilities according to the OWASP Top Ten,
-
-So that I can ensure the application is secure and compliant with industry standards.
+- **As** a Software Engineer,
+- **I want to** identify and report security vulnerabilities according to the OWASP Top Ten,
+- **So that** I can ensure the application is secure and compliant with industry standards.
 
 ## Acceptance Criteria
 
