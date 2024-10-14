@@ -1,6 +1,8 @@
 agile-story-template
 # Agile Story Template
 
+Based on [Agile Subtasks Template](https://github.com/vanHeemstraSystems/agile-subtasks-template)
+
 Based on [Agile Definition of Ready](https://github.com/vanHeemstraSystems/agile_definition_of_ready)
 
 Based on [Agile Definition of Done](https://github.com/vanHeemstraSystems/agile_definition_of_done)
