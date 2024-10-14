@@ -1,6 +1,8 @@
 agile-story-template
 # Agile Story Template
 
+Based on [Agile Definition of Ready](https://github.com/vanHeemstraSystems/agile_definition_of_ready)
+
 See [AGILE_STORY_TEMPLATE.md](./AGILE_STORY_TEMPLATE.md)
 
 Example for Threagile:
